@@ -1,0 +1,17 @@
+# How many electrons are on the last layer of a single Sodium atom?
+$ 1
+    
+# What is the shorter distance between two points : euclidean or manhattan?
+$ euclidean
+
+# How many legs does a horse have?
+$ 4
+
+# In what city was this code developed?
+$ barlad
+
+# What is the capital of Burkina Faso?
+$ ougadougou
+
+# What company created the PlayStation 2, 3 and 4 ?
+$ sony

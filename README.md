@@ -1,2 +1,2 @@
 # SimpleTrivia
-Simple Command Line Trivia
+Simple Command Line Trivia written in C++
